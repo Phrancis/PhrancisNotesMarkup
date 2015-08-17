@@ -38,7 +38,7 @@ This is an `identifier` using backticks.
 <code> 
     // $ Language: JavaScript $
     function Hello(name) {
-        return "Hello " + name + "."
+        return "Hello, " + name + "."
     }    
     
     // @EXAMPLE $ returns "Hello, John Doe." $
